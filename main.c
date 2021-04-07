@@ -5,11 +5,11 @@
 int main()
 {
 
-        printf("        ********************************\n");
-        printf("        ********************************\n");
-        printf("        **VAMO POR LAMPADA NESSA CASA***\n");
-        printf("        ********************************\n");
-        printf("        ********************************\n");
+        printf("        ************************************\n");
+        printf("        ************************************\n");
+        printf("        *Quantidade de lamparas necessárias*\n");
+        printf("        ************************************\n");
+        printf("        ************************************\n");
         int NC;
         printf("Numero de comodos (ate 6 comodos):");
         scanf("%i", &NC);
